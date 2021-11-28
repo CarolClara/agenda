@@ -16,7 +16,7 @@
   - Substituir as configurações de conexão no arquivo `infrastructure/connections.js`  
 - Executar `npm install`
 - Executar `npm start`
-- Acessa `localhost:3000/agendamentos`
+- Acessar `localhost:3000/agendamentos`
 
 ---
 
